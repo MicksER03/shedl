@@ -81,10 +81,10 @@ def parse_schedule():
 
             # print(f"Найдена пара: {clean_text}")
 
-    with open("company_event.ics", "wb") as f:
+    with open("schedule.ics", "wb") as f:
         f.write(cal.to_ical())
 
-    print("Файл company_event.ics успешно создан без использования pytz!")
+    print("Файл schedule.ics успешно создан без использования pytz!")
 
 if __name__ == "__main__":
     parse_schedule()
