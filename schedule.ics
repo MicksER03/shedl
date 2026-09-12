@@ -6,7 +6,7 @@ SUMMARY:[ЛЕКЦ] Факультатив: Профилактика нар
  козависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20260912T094000
 DTEND;TZID=Europe/Moscow:20260912T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:Видеолекция\n5.09—26.09
 LOCATION:дистанционное обучение
 END:VEVENT
@@ -15,7 +15,7 @@ SUMMARY:[ЛЕКЦ] Нормативно-правовые основы пр
  офессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20260912T133000
 DTEND;TZID=Europe/Moscow:20260912T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n5.
  09—19.09 Лекция в Контур.Толк
 LOCATION:дистанционное обучение (дистанцион
@@ -26,7 +26,7 @@ SUMMARY:[ЛЕКЦ] Нормативно-правовые основы пр
  офессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20260912T151000
 DTEND;TZID=Europe/Moscow:20260912T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n5.
  09—19.09 Лекция в Контур.Толк
 LOCATION:дистанционное обучение (дистанцион
@@ -37,7 +37,7 @@ SUMMARY:[ЛЕКЦ] Онтогенез речевой деятельнос
  ти
 DTSTART;TZID=Europe/Moscow:20260914T112000
 DTEND;TZID=Europe/Moscow:20260914T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n7.09—12.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -48,7 +48,7 @@ SUMMARY:[ЛЕКЦ] Онтогенез речевой деятельнос
  ти
 DTSTART;TZID=Europe/Moscow:20260914T133000
 DTEND;TZID=Europe/Moscow:20260914T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n7.09—5.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -59,7 +59,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20260914T151000
 DTEND;TZID=Europe/Moscow:20260914T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n14.09
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -70,7 +70,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20260914T165000
 DTEND;TZID=Europe/Moscow:20260914T182000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n14.09
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -81,7 +81,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20260915T112000
 DTEND;TZID=Europe/Moscow:20260915T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n1.09
  —6.10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -92,7 +92,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20260915T133000
 DTEND;TZID=Europe/Moscow:20260915T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n8.09—15.09
 LOCATION:ауд.119 - спортивный зал
@@ -102,7 +102,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20260916T094000
 DTEND;TZID=Europe/Moscow:20260916T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n9.09—1
  6.09
 LOCATION:ауд. 300\, корпус 27 (ул. Малая Посадска
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20260916T112000
 DTEND;TZID=Europe/Moscow:20260916T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n9.09—28.10
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -123,7 +123,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20260916T133000
 DTEND;TZID=Europe/Moscow:20260916T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n9.09—1
  6.09
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -134,7 +134,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20260916T151000
 DTEND;TZID=Europe/Moscow:20260916T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n16.0
  9
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -145,7 +145,7 @@ SUMMARY:[ЛЕКЦ] Введение в логопедическую спе
  циальность
 DTSTART;TZID=Europe/Moscow:20260917T094000
 DTEND;TZID=Europe/Moscow:20260917T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:зав. каф. Лопатина Людмила Владими
  ровна\n3.09—1.10
 LOCATION:ауд. 203\, корпус 27 (ул. Малая Посадска
@@ -156,7 +156,7 @@ SUMMARY:[ЛЕКЦ] Введение в логопедическую спе
  циальность
 DTSTART;TZID=Europe/Moscow:20260917T112000
 DTEND;TZID=Europe/Moscow:20260917T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:зав. каф. Лопатина Людмила Владими
  ровна\n3.09—1.10
 LOCATION:ауд. 203\, корпус 27 (ул. Малая Посадска
@@ -167,7 +167,7 @@ SUMMARY:[ЛЕКЦ] Психолого-педагогическая диа
  гностика
 DTSTART;TZID=Europe/Moscow:20260918T112000
 DTEND;TZID=Europe/Moscow:20260918T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Бойков Дмитрий Игоревич\n4.09—1
  8.09
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20260918T133000
 DTEND;TZID=Europe/Moscow:20260918T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n4.09—9.10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -188,7 +188,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20260918T151000
 DTEND;TZID=Europe/Moscow:20260918T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -199,7 +199,7 @@ SUMMARY:[ЛЕКЦ] Факультатив: Профилактика нар
  козависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20260919T094000
 DTEND;TZID=Europe/Moscow:20260919T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:Видеолекция\n5.09—26.09
 LOCATION:дистанционное обучение
 END:VEVENT
@@ -208,7 +208,7 @@ SUMMARY:[ЛЕКЦ] Нормативно-правовые основы пр
  офессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20260919T133000
 DTEND;TZID=Europe/Moscow:20260919T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n5.
  09—19.09 Лекция в Контур.Толк
 LOCATION:дистанционное обучение (дистанцион
@@ -219,7 +219,7 @@ SUMMARY:[ЛЕКЦ] Нормативно-правовые основы пр
  офессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20260919T151000
 DTEND;TZID=Europe/Moscow:20260919T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n5.
  09—19.09 Лекция в Контур.Толк
 LOCATION:дистанционное обучение (дистанцион
@@ -230,7 +230,7 @@ SUMMARY:[ЛЕКЦ] Онтогенез речевой деятельнос
  ти
 DTSTART;TZID=Europe/Moscow:20260921T112000
 DTEND;TZID=Europe/Moscow:20260921T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n7.09—12.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -241,7 +241,7 @@ SUMMARY:[ЛЕКЦ] Онтогенез речевой деятельнос
  ти
 DTSTART;TZID=Europe/Moscow:20260921T133000
 DTEND;TZID=Europe/Moscow:20260921T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n7.09—5.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -252,7 +252,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20260921T151000
 DTEND;TZID=Europe/Moscow:20260921T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Богачек Ирина Сергеевна\n21.09
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -262,7 +262,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20260921T165000
 DTEND;TZID=Europe/Moscow:20260921T182000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Богачек Ирина Сергеевна\n21.09
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -272,7 +272,7 @@ SUMMARY:[ЛЕКЦ] Технологии логопедической ди
  агностики
 DTSTART;TZID=Europe/Moscow:20260922T094000
 DTEND;TZID=Europe/Moscow:20260922T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
  22.09
 LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
@@ -283,7 +283,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20260922T112000
 DTEND;TZID=Europe/Moscow:20260922T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n1.09
  —6.10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20260923T112000
 DTEND;TZID=Europe/Moscow:20260923T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n9.09—28.10
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -304,7 +304,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20260923T133000
 DTEND;TZID=Europe/Moscow:20260923T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  23.09—30.09
 LOCATION:ауд. 222\, корпус 27 (ул. Малая Посадска
@@ -315,7 +315,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20260923T151000
 DTEND;TZID=Europe/Moscow:20260923T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  23.09
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -326,7 +326,7 @@ SUMMARY:[ЛЕКЦ] Введение в логопедическую спе
  циальность
 DTSTART;TZID=Europe/Moscow:20260924T094000
 DTEND;TZID=Europe/Moscow:20260924T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:зав. каф. Лопатина Людмила Владими
  ровна\n3.09—1.10
 LOCATION:ауд. 203\, корпус 27 (ул. Малая Посадска
@@ -337,7 +337,7 @@ SUMMARY:[ЛЕКЦ] Введение в логопедическую спе
  циальность
 DTSTART;TZID=Europe/Moscow:20260924T112000
 DTEND;TZID=Europe/Moscow:20260924T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:зав. каф. Лопатина Людмила Владими
  ровна\n3.09—1.10
 LOCATION:ауд. 203\, корпус 27 (ул. Малая Посадска
@@ -348,7 +348,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20260924T133000
 DTEND;TZID=Europe/Moscow:20260924T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n24.09
 LOCATION:ауд. 204\, корпус 27 (ул. Малая Посадска
@@ -359,7 +359,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20260924T151000
 DTEND;TZID=Europe/Moscow:20260924T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n24.09
 LOCATION:ауд. 204\, корпус 27 (ул. Малая Посадска
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20260925T133000
 DTEND;TZID=Europe/Moscow:20260925T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n4.09—9.10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -380,7 +380,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20260925T151000
 DTEND;TZID=Europe/Moscow:20260925T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -391,7 +391,7 @@ SUMMARY:[ЛЕКЦ] Факультатив: Профилактика нар
  козависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20260926T094000
 DTEND;TZID=Europe/Moscow:20260926T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:Видеолекция\n5.09—26.09
 LOCATION:дистанционное обучение
 END:VEVENT
@@ -400,7 +400,7 @@ SUMMARY:[ЛЕКЦ] Нормативно-правовые основы пр
  офессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20260926T112000
 DTEND;TZID=Europe/Moscow:20260926T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n26
  .09 Лекция в Контур.Толк
 LOCATION:дистанционное обучение (дистанцион
@@ -411,7 +411,7 @@ SUMMARY:[ЛЕКЦ] Онтогенез речевой деятельнос
  ти
 DTSTART;TZID=Europe/Moscow:20260928T112000
 DTEND;TZID=Europe/Moscow:20260928T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n7.09—12.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -422,7 +422,7 @@ SUMMARY:[ЛЕКЦ] Онтогенез речевой деятельнос
  ти
 DTSTART;TZID=Europe/Moscow:20260928T133000
 DTEND;TZID=Europe/Moscow:20260928T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n7.09—5.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -433,7 +433,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20260929T112000
 DTEND;TZID=Europe/Moscow:20260929T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n1.09
  —6.10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -444,7 +444,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20260929T133000
 DTEND;TZID=Europe/Moscow:20260929T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  29.09
 LOCATION:ауд. 204\, корпус 27 (ул. Малая Посадска
@@ -455,7 +455,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20260929T151000
 DTEND;TZID=Europe/Moscow:20260929T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  29.09
 LOCATION:ауд. 204\, корпус 27 (ул. Малая Посадска
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20260930T112000
 DTEND;TZID=Europe/Moscow:20260930T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n9.09—28.10
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -476,7 +476,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20260930T133000
 DTEND;TZID=Europe/Moscow:20260930T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  23.09—30.09
 LOCATION:ауд. 222\, корпус 27 (ул. Малая Посадска
@@ -487,7 +487,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20260930T151000
 DTEND;TZID=Europe/Moscow:20260930T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n30.0
  9
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -498,7 +498,7 @@ SUMMARY:[ЛЕКЦ] Введение в логопедическую спе
  циальность
 DTSTART;TZID=Europe/Moscow:20261001T094000
 DTEND;TZID=Europe/Moscow:20261001T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:зав. каф. Лопатина Людмила Владими
  ровна\n3.09—1.10
 LOCATION:ауд. 203\, корпус 27 (ул. Малая Посадска
@@ -509,7 +509,7 @@ SUMMARY:[ЛЕКЦ] Введение в логопедическую спе
  циальность
 DTSTART;TZID=Europe/Moscow:20261001T112000
 DTEND;TZID=Europe/Moscow:20261001T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:зав. каф. Лопатина Людмила Владими
  ровна\n3.09—1.10
 LOCATION:ауд. 203\, корпус 27 (ул. Малая Посадска
@@ -520,7 +520,7 @@ SUMMARY:[ПРАКТ] Система оказания логопедиче
  ской помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261001T133000
 DTEND;TZID=Europe/Moscow:20261001T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  1.10
 LOCATION:ауд. 318\, корпус 27 (ул. Малая Посадска
@@ -531,7 +531,7 @@ SUMMARY:[ПРАКТ] Система оказания логопедиче
  ской помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261001T151000
 DTEND;TZID=Europe/Moscow:20261001T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  1.10
 LOCATION:ауд. 318\, корпус 27 (ул. Малая Посадска
@@ -542,7 +542,7 @@ SUMMARY:[ЛЕКЦ] Факультатив: Профилактика нар
  козависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20261002T080000
 DTEND;TZID=Europe/Moscow:20261002T093000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:Видеолекция\n2.10—9.10
 LOCATION:дистанционное обучение
 END:VEVENT
@@ -551,7 +551,7 @@ SUMMARY:[ЛЕКЦ] Психолого-педагогическая диа
  гностика
 DTSTART;TZID=Europe/Moscow:20261002T112000
 DTEND;TZID=Europe/Moscow:20261002T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Бойков Дмитрий Игоревич\n2.10—9
  .10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -561,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261002T133000
 DTEND;TZID=Europe/Moscow:20261002T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n4.09—9.10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -572,7 +572,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20261002T151000
 DTEND;TZID=Europe/Moscow:20261002T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -583,7 +583,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261003T094000
 DTEND;TZID=Europe/Moscow:20261003T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -594,7 +594,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261003T112000
 DTEND;TZID=Europe/Moscow:20261003T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -605,7 +605,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261005T094000
 DTEND;TZID=Europe/Moscow:20261005T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n5.10—1
  2.10
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -616,7 +616,7 @@ SUMMARY:[ЛЕКЦ] Онтогенез речевой деятельнос
  ти
 DTSTART;TZID=Europe/Moscow:20261005T112000
 DTEND;TZID=Europe/Moscow:20261005T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n7.09—12.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -627,7 +627,7 @@ SUMMARY:[ЛЕКЦ] Онтогенез речевой деятельнос
  ти
 DTSTART;TZID=Europe/Moscow:20261005T133000
 DTEND;TZID=Europe/Moscow:20261005T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n7.09—5.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -638,7 +638,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261005T151000
 DTEND;TZID=Europe/Moscow:20261005T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n5.10
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -648,7 +648,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261006T112000
 DTEND;TZID=Europe/Moscow:20261006T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n1.09
  —6.10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -659,7 +659,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261006T133000
 DTEND;TZID=Europe/Moscow:20261006T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n6.10—27.10
 LOCATION:ауд.119 - спортивный зал
@@ -669,7 +669,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261007T094000
 DTEND;TZID=Europe/Moscow:20261007T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -679,7 +679,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261007T112000
 DTEND;TZID=Europe/Moscow:20261007T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n9.09—28.10
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -690,7 +690,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261007T133000
 DTEND;TZID=Europe/Moscow:20261007T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -701,7 +701,7 @@ SUMMARY:[ЛЕКЦ] Факультатив: Профилактика нар
  козависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20261009T080000
 DTEND;TZID=Europe/Moscow:20261009T093000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:Видеолекция\n2.10—9.10
 LOCATION:дистанционное обучение
 END:VEVENT
@@ -710,7 +710,7 @@ SUMMARY:[ЛЕКЦ] Психолого-педагогическая диа
  гностика
 DTSTART;TZID=Europe/Moscow:20261009T112000
 DTEND;TZID=Europe/Moscow:20261009T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Бойков Дмитрий Игоревич\n2.10—9
  .10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -720,7 +720,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261009T133000
 DTEND;TZID=Europe/Moscow:20261009T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n4.09—9.10
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -731,7 +731,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20261009T151000
 DTEND;TZID=Europe/Moscow:20261009T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -742,7 +742,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261010T094000
 DTEND;TZID=Europe/Moscow:20261010T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -753,7 +753,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261010T112000
 DTEND;TZID=Europe/Moscow:20261010T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -764,7 +764,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261012T094000
 DTEND;TZID=Europe/Moscow:20261012T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n5.10—1
  2.10
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -775,7 +775,7 @@ SUMMARY:[ЛЕКЦ] Онтогенез речевой деятельнос
  ти
 DTSTART;TZID=Europe/Moscow:20261012T112000
 DTEND;TZID=Europe/Moscow:20261012T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n7.09—12.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -786,7 +786,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261012T133000
 DTEND;TZID=Europe/Moscow:20261012T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n12.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -797,7 +797,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261012T151000
 DTEND;TZID=Europe/Moscow:20261012T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n12.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -808,7 +808,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261013T133000
 DTEND;TZID=Europe/Moscow:20261013T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n6.10—27.10
 LOCATION:ауд.119 - спортивный зал
@@ -818,7 +818,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261014T094000
 DTEND;TZID=Europe/Moscow:20261014T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -828,7 +828,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261014T112000
 DTEND;TZID=Europe/Moscow:20261014T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n9.09—28.10
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -839,7 +839,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261014T133000
 DTEND;TZID=Europe/Moscow:20261014T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -850,7 +850,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261014T151000
 DTEND;TZID=Europe/Moscow:20261014T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n14.1
  0—21.10
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -861,7 +861,7 @@ SUMMARY:[ПРАКТ] Система оказания логопедиче
  ской помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261015T094000
 DTEND;TZID=Europe/Moscow:20261015T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  15.10
 LOCATION:ауд. 318\, корпус 27 (ул. Малая Посадска
@@ -872,7 +872,7 @@ SUMMARY:[ПРАКТ] Система оказания логопедиче
  ской помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261015T112000
 DTEND;TZID=Europe/Moscow:20261015T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  15.10
 LOCATION:ауд. 318\, корпус 27 (ул. Малая Посадска
@@ -883,7 +883,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261016T112000
 DTEND;TZID=Europe/Moscow:20261016T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  16.10
 LOCATION:ауд. 222\, корпус 27 (ул. Малая Посадска
@@ -894,7 +894,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261016T133000
 DTEND;TZID=Europe/Moscow:20261016T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  16.10
 LOCATION:ауд. 222\, корпус 27 (ул. Малая Посадска
@@ -905,7 +905,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20261016T151000
 DTEND;TZID=Europe/Moscow:20261016T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -916,7 +916,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261017T094000
 DTEND;TZID=Europe/Moscow:20261017T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -927,7 +927,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261017T112000
 DTEND;TZID=Europe/Moscow:20261017T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -938,7 +938,7 @@ SUMMARY:[ЛЕКЦ] Факультатив: Профилактика нар
  козависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20261019T094000
 DTEND;TZID=Europe/Moscow:20261019T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:Видеолекция\n19.10
 LOCATION:дистанционное обучение
 END:VEVENT
@@ -947,7 +947,7 @@ SUMMARY:[ЛЕКЦ] Факультатив: Профилактика нар
  козависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20261019T112000
 DTEND;TZID=Europe/Moscow:20261019T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:Видеолекция\n19.10
 LOCATION:дистанционное обучение
 END:VEVENT
@@ -956,7 +956,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20261019T151000
 DTEND;TZID=Europe/Moscow:20261019T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Богачек Ирина Сергеевна\n19.10
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -966,7 +966,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20261019T165000
 DTEND;TZID=Europe/Moscow:20261019T182000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Богачек Ирина Сергеевна\n19.10
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -976,7 +976,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261020T133000
 DTEND;TZID=Europe/Moscow:20261020T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  20.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -987,7 +987,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261020T151000
 DTEND;TZID=Europe/Moscow:20261020T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  20.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -998,7 +998,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261021T094000
 DTEND;TZID=Europe/Moscow:20261021T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1008,7 +1008,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261021T112000
 DTEND;TZID=Europe/Moscow:20261021T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n9.09—28.10
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1019,7 +1019,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261021T133000
 DTEND;TZID=Europe/Moscow:20261021T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1030,7 +1030,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261021T151000
 DTEND;TZID=Europe/Moscow:20261021T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n14.1
  0—21.10
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1041,7 +1041,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261022T133000
 DTEND;TZID=Europe/Moscow:20261022T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n22.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -1052,7 +1052,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261022T151000
 DTEND;TZID=Europe/Moscow:20261022T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n22.10
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -1063,7 +1063,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261023T094000
 DTEND;TZID=Europe/Moscow:20261023T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  23.10
 LOCATION:ауд. 222\, корпус 27 (ул. Малая Посадска
@@ -1074,7 +1074,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261023T112000
 DTEND;TZID=Europe/Moscow:20261023T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n23.10
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -1085,7 +1085,7 @@ SUMMARY:[ЛЕКЦ] Технологии логопедической ди
  агностики
 DTSTART;TZID=Europe/Moscow:20261023T133000
 DTEND;TZID=Europe/Moscow:20261023T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
  23.10
 LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
@@ -1096,7 +1096,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20261023T151000
 DTEND;TZID=Europe/Moscow:20261023T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1107,7 +1107,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261024T094000
 DTEND;TZID=Europe/Moscow:20261024T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1118,7 +1118,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261024T112000
 DTEND;TZID=Europe/Moscow:20261024T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1129,7 +1129,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261026T133000
 DTEND;TZID=Europe/Moscow:20261026T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  26.10
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1140,7 +1140,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261026T151000
 DTEND;TZID=Europe/Moscow:20261026T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n26.10
 LOCATION:ауд.119 - спортивный зал
@@ -1150,7 +1150,7 @@ SUMMARY:[ЛЕКЦ] Психопатология с клиникой инт
  еллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261027T112000
 DTEND;TZID=Europe/Moscow:20261027T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n27.1
  0—10.11
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1161,7 +1161,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261027T133000
 DTEND;TZID=Europe/Moscow:20261027T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n6.10—27.10
 LOCATION:ауд.119 - спортивный зал
@@ -1171,7 +1171,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261028T094000
 DTEND;TZID=Europe/Moscow:20261028T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1181,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261028T112000
 DTEND;TZID=Europe/Moscow:20261028T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n9.09—28.10
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1192,7 +1192,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261028T133000
 DTEND;TZID=Europe/Moscow:20261028T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1203,7 +1203,7 @@ SUMMARY:[ЛЕКЦ] Технологии логопедической ди
  агностики
 DTSTART;TZID=Europe/Moscow:20261029T094000
 DTEND;TZID=Europe/Moscow:20261029T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
  29.10—12.11
 LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
@@ -1214,7 +1214,7 @@ SUMMARY:[ЛЕКЦ] Технологии логопедической ди
  агностики
 DTSTART;TZID=Europe/Moscow:20261029T112000
 DTEND;TZID=Europe/Moscow:20261029T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
  29.10
 LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
@@ -1225,7 +1225,7 @@ SUMMARY:[ЛЕКЦ] Психолого-педагогическая диа
  гностика
 DTSTART;TZID=Europe/Moscow:20261030T112000
 DTEND;TZID=Europe/Moscow:20261030T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Бойков Дмитрий Игоревич\n30.10—
  13.11
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1235,7 +1235,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261030T133000
 DTEND;TZID=Europe/Moscow:20261030T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n30.10—11.12
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -1246,7 +1246,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20261030T151000
 DTEND;TZID=Europe/Moscow:20261030T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1257,7 +1257,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261031T094000
 DTEND;TZID=Europe/Moscow:20261031T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1268,7 +1268,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261031T112000
 DTEND;TZID=Europe/Moscow:20261031T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1279,7 +1279,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20261103T094000
 DTEND;TZID=Europe/Moscow:20261103T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Богачек Ирина Сергеевна\n3.11
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -1289,7 +1289,7 @@ SUMMARY:[ЛЕКЦ] Психопатология с клиникой инт
  еллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261103T112000
 DTEND;TZID=Europe/Moscow:20261103T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n27.1
  0—10.11
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1300,7 +1300,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261103T133000
 DTEND;TZID=Europe/Moscow:20261103T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n3.11
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -1311,7 +1311,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261103T151000
 DTEND;TZID=Europe/Moscow:20261103T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n3.11
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -1322,7 +1322,7 @@ SUMMARY:[ЛЕКЦ] Технологии логопедической ди
  агностики
 DTSTART;TZID=Europe/Moscow:20261105T094000
 DTEND;TZID=Europe/Moscow:20261105T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
  29.10—12.11
 LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
@@ -1333,7 +1333,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261105T112000
 DTEND;TZID=Europe/Moscow:20261105T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  5.11
 LOCATION:ауд. 318\, корпус 27 (ул. Малая Посадска
@@ -1344,7 +1344,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261105T133000
 DTEND;TZID=Europe/Moscow:20261105T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  5.11
 LOCATION:ауд. 318\, корпус 27 (ул. Малая Посадска
@@ -1355,7 +1355,7 @@ SUMMARY:[ЛЕКЦ] Психолого-педагогическая диа
  гностика
 DTSTART;TZID=Europe/Moscow:20261106T112000
 DTEND;TZID=Europe/Moscow:20261106T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Бойков Дмитрий Игоревич\n30.10—
  13.11
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1365,7 +1365,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261106T133000
 DTEND;TZID=Europe/Moscow:20261106T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n30.10—11.12
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -1376,7 +1376,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20261106T151000
 DTEND;TZID=Europe/Moscow:20261106T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1387,7 +1387,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261107T094000
 DTEND;TZID=Europe/Moscow:20261107T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1398,7 +1398,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261107T112000
 DTEND;TZID=Europe/Moscow:20261107T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1409,7 +1409,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261109T094000
 DTEND;TZID=Europe/Moscow:20261109T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n9.11
 LOCATION:ауд.119 - спортивный зал
@@ -1419,7 +1419,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261109T112000
 DTEND;TZID=Europe/Moscow:20261109T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  9.11—16.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1430,7 +1430,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261109T133000
 DTEND;TZID=Europe/Moscow:20261109T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  9.11—16.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1441,7 +1441,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261110T094000
 DTEND;TZID=Europe/Moscow:20261110T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n10.11
 LOCATION:ауд.119 - спортивный зал
@@ -1451,7 +1451,7 @@ SUMMARY:[ЛЕКЦ] Психопатология с клиникой инт
  еллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261110T112000
 DTEND;TZID=Europe/Moscow:20261110T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n27.1
  0—10.11
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1462,7 +1462,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261110T133000
 DTEND;TZID=Europe/Moscow:20261110T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n10.11
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -1473,7 +1473,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261110T151000
 DTEND;TZID=Europe/Moscow:20261110T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n10.11
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -1484,7 +1484,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261111T094000
 DTEND;TZID=Europe/Moscow:20261111T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1494,7 +1494,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261111T112000
 DTEND;TZID=Europe/Moscow:20261111T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n11.11—16.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1505,7 +1505,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261111T133000
 DTEND;TZID=Europe/Moscow:20261111T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1516,7 +1516,7 @@ SUMMARY:[ЛЕКЦ] Технологии логопедической ди
  агностики
 DTSTART;TZID=Europe/Moscow:20261112T094000
 DTEND;TZID=Europe/Moscow:20261112T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
  29.10—12.11
 LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
@@ -1527,7 +1527,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261112T112000
 DTEND;TZID=Europe/Moscow:20261112T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n12.11
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -1538,7 +1538,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261112T133000
 DTEND;TZID=Europe/Moscow:20261112T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n12.11
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -1549,7 +1549,7 @@ SUMMARY:[ЛЕКЦ] Психолого-педагогическая диа
  гностика
 DTSTART;TZID=Europe/Moscow:20261113T112000
 DTEND;TZID=Europe/Moscow:20261113T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Бойков Дмитрий Игоревич\n30.10—
  13.11
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1559,7 +1559,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261113T133000
 DTEND;TZID=Europe/Moscow:20261113T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n30.10—11.12
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -1570,7 +1570,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20261113T151000
 DTEND;TZID=Europe/Moscow:20261113T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1581,7 +1581,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261114T094000
 DTEND;TZID=Europe/Moscow:20261114T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1592,7 +1592,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261114T112000
 DTEND;TZID=Europe/Moscow:20261114T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1603,7 +1603,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20261116T094000
 DTEND;TZID=Europe/Moscow:20261116T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Богачек Ирина Сергеевна\n16.11
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -1613,7 +1613,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261116T112000
 DTEND;TZID=Europe/Moscow:20261116T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  9.11—16.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1624,7 +1624,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261116T133000
 DTEND;TZID=Europe/Moscow:20261116T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  9.11—16.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1635,7 +1635,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261117T133000
 DTEND;TZID=Europe/Moscow:20261117T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n17.11—1.12
 LOCATION:ауд.119 - спортивный зал
@@ -1645,7 +1645,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261118T094000
 DTEND;TZID=Europe/Moscow:20261118T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1655,7 +1655,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261118T112000
 DTEND;TZID=Europe/Moscow:20261118T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n11.11—16.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1666,7 +1666,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261118T133000
 DTEND;TZID=Europe/Moscow:20261118T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1677,7 +1677,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261118T151000
 DTEND;TZID=Europe/Moscow:20261118T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n18.1
  1—16.12
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1687,7 +1687,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261120T133000
 DTEND;TZID=Europe/Moscow:20261120T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n30.10—11.12
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -1698,7 +1698,7 @@ SUMMARY:[ПРАКТ] Нормативно-правовые основы п
  рофессиональной деятельности
 DTSTART;TZID=Europe/Moscow:20261120T151000
 DTEND;TZID=Europe/Moscow:20261120T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Метелева Любовь Васильевна\n11
  .09—20.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1709,7 +1709,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261121T094000
 DTEND;TZID=Europe/Moscow:20261121T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1720,7 +1720,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261121T112000
 DTEND;TZID=Europe/Moscow:20261121T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n3.10—21.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1731,7 +1731,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261123T151000
 DTEND;TZID=Europe/Moscow:20261123T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n23.11
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -1742,7 +1742,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261123T165000
 DTEND;TZID=Europe/Moscow:20261123T182000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n23.11
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -1753,7 +1753,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261124T112000
 DTEND;TZID=Europe/Moscow:20261124T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  24.11
 LOCATION:ауд. 222\, корпус 27 (ул. Малая Посадска
@@ -1764,7 +1764,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261124T133000
 DTEND;TZID=Europe/Moscow:20261124T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n17.11—1.12
 LOCATION:ауд.119 - спортивный зал
@@ -1774,7 +1774,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261125T094000
 DTEND;TZID=Europe/Moscow:20261125T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1784,7 +1784,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261125T112000
 DTEND;TZID=Europe/Moscow:20261125T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n11.11—16.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1795,7 +1795,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261125T133000
 DTEND;TZID=Europe/Moscow:20261125T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1806,7 +1806,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261125T151000
 DTEND;TZID=Europe/Moscow:20261125T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n18.1
  1—16.12
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1817,7 +1817,7 @@ SUMMARY:[ПРАКТ] Система оказания логопедиче
  ской помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261126T080000
 DTEND;TZID=Europe/Moscow:20261126T093000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  26.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1828,7 +1828,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261126T094000
 DTEND;TZID=Europe/Moscow:20261126T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  26.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1839,7 +1839,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261126T112000
 DTEND;TZID=Europe/Moscow:20261126T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n26.11
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -1850,7 +1850,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261126T133000
 DTEND;TZID=Europe/Moscow:20261126T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Прищепова Ирина Владимировна
  \n26.11
 LOCATION:ауд. 311\, корпус 27 (ул. Малая Посадска
@@ -1861,7 +1861,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261127T094000
 DTEND;TZID=Europe/Moscow:20261127T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n27.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1872,7 +1872,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261127T112000
 DTEND;TZID=Europe/Moscow:20261127T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  27.11
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1882,7 +1882,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261127T133000
 DTEND;TZID=Europe/Moscow:20261127T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n30.10—11.12
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -1893,7 +1893,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261128T112000
 DTEND;TZID=Europe/Moscow:20261128T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n28.11
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1904,7 +1904,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20261130T094000
 DTEND;TZID=Europe/Moscow:20261130T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Богачек Ирина Сергеевна\n30.11
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -1914,7 +1914,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20261130T112000
 DTEND;TZID=Europe/Moscow:20261130T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Богачек Ирина Сергеевна\n30.11
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -1924,7 +1924,7 @@ SUMMARY:[ПРАКТ] Система оказания логопедиче
  ской помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261201T112000
 DTEND;TZID=Europe/Moscow:20261201T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  1.12
 LOCATION:ауд. 222\, корпус 27 (ул. Малая Посадска
@@ -1935,7 +1935,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261201T133000
 DTEND;TZID=Europe/Moscow:20261201T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n17.11—1.12
 LOCATION:ауд.119 - спортивный зал
@@ -1945,7 +1945,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261202T094000
 DTEND;TZID=Europe/Moscow:20261202T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -1955,7 +1955,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261202T112000
 DTEND;TZID=Europe/Moscow:20261202T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n11.11—16.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1966,7 +1966,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261202T133000
 DTEND;TZID=Europe/Moscow:20261202T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -1977,7 +1977,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261202T151000
 DTEND;TZID=Europe/Moscow:20261202T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n18.1
  1—16.12
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -1988,7 +1988,7 @@ SUMMARY:[ЛЕКЦ] Технологии логопедической ди
  агностики
 DTSTART;TZID=Europe/Moscow:20261203T094000
 DTEND;TZID=Europe/Moscow:20261203T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
  3.12
 LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
@@ -1999,7 +1999,7 @@ SUMMARY:[ПРАКТ] Система оказания логопедиче
  ской помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261203T112000
 DTEND;TZID=Europe/Moscow:20261203T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  3.12
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -2009,7 +2009,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261204T133000
 DTEND;TZID=Europe/Moscow:20261204T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n30.10—11.12
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -2020,7 +2020,7 @@ SUMMARY:[ПРАКТ] Система оказания логопедиче
  ской помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261204T151000
 DTEND;TZID=Europe/Moscow:20261204T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  4.12
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -2031,7 +2031,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261205T094000
 DTEND;TZID=Europe/Moscow:20261205T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n5.12—12.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -2042,7 +2042,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261205T112000
 DTEND;TZID=Europe/Moscow:20261205T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n5.12—12.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -2053,7 +2053,7 @@ SUMMARY:[ЛЕКЦ] Факультатив: Профилактика нар
  козависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20261207T094000
 DTEND;TZID=Europe/Moscow:20261207T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:Видеолекция\n7.12
 LOCATION:дистанционное обучение
 END:VEVENT
@@ -2062,7 +2062,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261207T112000
 DTEND;TZID=Europe/Moscow:20261207T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  7.12
 LOCATION:ауд. 222\, корпус 27 (ул. Малая Посадска
@@ -2073,7 +2073,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261207T133000
 DTEND;TZID=Europe/Moscow:20261207T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -2083,7 +2083,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261207T151000
 DTEND;TZID=Europe/Moscow:20261207T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n7.12—14.12
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -2094,7 +2094,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261207T165000
 DTEND;TZID=Europe/Moscow:20261207T182000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n7.12
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -2105,7 +2105,7 @@ SUMMARY:[ЛЕКЦ] Технологии логопедической ди
  агностики
 DTSTART;TZID=Europe/Moscow:20261208T094000
 DTEND;TZID=Europe/Moscow:20261208T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
  8.12
 LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
@@ -2116,7 +2116,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261208T112000
 DTEND;TZID=Europe/Moscow:20261208T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n8.12—15.12
 LOCATION:ауд.119 - спортивный зал
@@ -2126,7 +2126,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261209T094000
 DTEND;TZID=Europe/Moscow:20261209T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 221\, корпус 27 (ул. Малая Посадска
@@ -2136,7 +2136,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261209T112000
 DTEND;TZID=Europe/Moscow:20261209T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n11.11—16.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -2147,7 +2147,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261209T133000
 DTEND;TZID=Europe/Moscow:20261209T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n7.10—9
  .12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -2158,7 +2158,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261209T151000
 DTEND;TZID=Europe/Moscow:20261209T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n18.1
  1—16.12
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
@@ -2168,7 +2168,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261211T133000
 DTEND;TZID=Europe/Moscow:20261211T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n30.10—11.12
 LOCATION:ауд. 310\, корпус 27 (ул. Малая Посадска
@@ -2179,7 +2179,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261212T094000
 DTEND;TZID=Europe/Moscow:20261212T111000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n5.12—12.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -2190,7 +2190,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261212T112000
 DTEND;TZID=Europe/Moscow:20261212T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n5.12—12.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -2201,7 +2201,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261214T112000
 DTEND;TZID=Europe/Moscow:20261214T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Докучаев Илья Игоревич\n14.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
  я\, д. 26)
@@ -2211,7 +2211,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261214T133000
 DTEND;TZID=Europe/Moscow:20261214T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n14.12
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -2222,7 +2222,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261214T151000
 DTEND;TZID=Europe/Moscow:20261214T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Гончарова Валерия Александро
  вна\n7.12—14.12
 LOCATION:ауд. 317\, корпус 27 (ул. Малая Посадска
@@ -2233,7 +2233,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261215T112000
 DTEND;TZID=Europe/Moscow:20261215T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
  вич\n8.12—15.12
 LOCATION:ауд.119 - спортивный зал
@@ -2243,7 +2243,7 @@ SUMMARY:[ЛЕКЦ] Технологии логопедической ди
  агностики
 DTSTART;TZID=Europe/Moscow:20261215T151000
 DTEND;TZID=Europe/Moscow:20261215T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
  15.12
 LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
@@ -2253,7 +2253,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261216T112000
 DTEND;TZID=Europe/Moscow:20261216T125000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Вассерман Евгений Людвигович
  \n11.11—16.12
 LOCATION:ауд. 319\, корпус 27 (ул. Малая Посадска
@@ -2264,7 +2264,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261216T133000
 DTEND;TZID=Europe/Moscow:20261216T150000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
  16.12
 LOCATION:ауд. 222\, корпус 27 (ул. Малая Посадска
@@ -2275,7 +2275,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261216T151000
 DTEND;TZID=Europe/Moscow:20261216T164000
-DTSTAMP:20260911T225623Z
+DTSTAMP:20260912T005250Z
 DESCRIPTION:проф. Шац Игорь Константинович\n18.1
  1—16.12
 LOCATION:ауд. 219\, корпус 27 (ул. Малая Посадска
