@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Расписание РГПУ им. А. И. Герцена — Календарь</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📅</text></svg>">
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col justify-between antialiased">
+  <div class="max-w-2xl mx-auto px-4 py-12 flex-grow w-full">
+    <div class="bg-white rounded-2xl shadow-xl p-6 sm:p-8 border border-slate-100">
+      
+      <!-- Заголовок -->
+      <div class="flex items-center space-x-3 mb-6">
+        <div class="w-12 h-12 bg-blue-600 text-white rounded-xl flex items-center justify-center text-2xl shadow-md shadow-blue-200">
+          📅
+        </div>
+        <div>
+          <h1 class="text-2xl font-bold text-slate-900">Расписание РГПУ</h1>
+          <p class="text-sm text-slate-500">Автоматически обновляемый iCalendar (.ics)</p>
+        </div>
+      </div>
+
+      <!-- Описание -->
+      <p class="text-slate-600 mb-6 leading-relaxed">
+        Подпишитесь на этот календарь в Google Календаре, Apple Calendar или Яндекс Календаре, чтобы автоматически получать актуальное расписание пар с аудиториями, именами преподавателей и ссылками на Moodle.
+      </p>
+
+      <!-- Основная кнопка -->
+      <div class="flex flex-col sm:flex-row gap-3 mb-8">
+        <a id="webcal-btn" href="webcal://mickser03.github.io/shedl/schedule.ics" class="flex-1 text-center bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-xl transition duration-150 shadow-md shadow-blue-200 flex items-center justify-center gap-2">
+          <span>📲</span> Добавить в Календарь (Apple / iOS)
+        </a>
+        <a href="schedule.ics" download class="flex text-center bg-slate-100 hover:bg-slate-200 text-slate-700 font-medium py-3 px-5 rounded-xl transition duration-150 items-center justify-center gap-2">
+          <span>⬇️</span> Скачать .ics
+        </a>
+      </div>
+
+      <!-- Ссылки для подписки -->
+      <div class="space-y-4 mb-8">
+        <div>
+          <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 mb-1">
+            Прямая ссылка для подписки (Google / Яндекс / Outlook):
+          </label>
+          <div class="flex gap-2">
+            <input id="ics-url" type="text" readonly value="https://mickser03.github.io/shedl/schedule.ics" class="w-full bg-slate-50 border border-slate-200 text-slate-700 text-sm rounded-lg px-3 py-2.5 font-mono focus:outline-none select-all">
+            <button onclick="copyToClipboard('ics-url', this)" class="bg-slate-800 hover:bg-slate-900 text-white text-sm px-4 py-2.5 rounded-lg font-medium transition duration-150 whitespace-nowrap">
+              Скопировать
+            </button>
+          </div>
+        </div>
+
+        <div>
+          <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 mb-1">
+            Резервная ссылка (Raw GitHub):
+          </label>
+          <div class="flex gap-2">
+            <input id="raw-url" type="text" readonly value="https://raw.githubusercontent.com/MicksER03/shedl/main/schedule.ics" class="w-full bg-slate-50 border border-slate-200 text-slate-700 text-xs rounded-lg px-3 py-2 font-mono focus:outline-none select-all">
+            <button onclick="copyToClipboard('raw-url', this)" class="bg-slate-200 hover:bg-slate-300 text-slate-700 text-xs px-3 py-2 rounded-lg font-medium transition duration-150 whitespace-nowrap">
+              Скопировать
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Инструкции -->
+      <div class="border-t border-slate-100 pt-6">
+        <h2 class="text-base font-semibold text-slate-900 mb-3">Как подписаться на расписание:</h2>
+        <ul class="space-y-3 text-sm text-slate-600">
+          <li class="flex items-start gap-2">
+            <span class="font-bold text-blue-600">Google Calendar:</span>
+            <span>В левой панели нажмите плюсик рядом с <i>«Другие календари»</i> → <i>«Добавить по URL»</i> → вставьте скопированную ссылку.</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="font-bold text-blue-600">Apple Calendar (iOS / macOS):</span>
+            <span>Нажмите синюю кнопку выше или в приложении Календарь выберите <i>Файл → Новая подписка на календарь</i>.</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="font-bold text-blue-600">Яндекс Календарь:</span>
+            <span>Нажмите на шестеренку в левом меню → <i>«Импорт» / «Добавить календарь по ссылке»</i> → укажите URL.</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Источник -->
+      <div class="mt-8 bg-blue-50 border border-blue-100 rounded-xl p-4 text-xs text-blue-900 flex justify-between items-center">
+        <span>🔄 Обновляется автоматически каждый час через GitHub Actions.</span>
+        <a href="https://guide.herzen.spb.ru/schedule/25490/by-dates" target="_blank" class="font-semibold underline hover:text-blue-700">Оригинал на guide.herzen</a>
+      </div>
+
+    </div>
+  </div>
+
+  <footer class="text-center py-4 text-xs text-slate-400">
+    <a href="https://github.com/MicksER03/shedl" target="_blank" class="hover:underline">GitHub: MicksER03/shedl</a>
+  </footer>
+
+  <script>
+    function copyToClipboard(elementId, button) {
+      const input = document.getElementById(elementId);
+      input.select();
+      navigator.clipboard.writeText(input.value).then(() => {
+        const originalText = button.innerText;
+        button.innerText = 'Скопировано! ✓';
+        button.classList.add('bg-green-600');
+        setTimeout(() => {
+          button.innerText = originalText;
+          button.classList.remove('bg-green-600');
+        }, 2000);
+      });
+    }
+
+    // Автоматическая настройка webcal ссылки с учетом текущего хоста
+    if (window.location.protocol.startsWith('http')) {
+      const hostUrl = window.location.origin + window.location.pathname.replace(/\/$/, '') + '/schedule.ics';
+      document.getElementById('ics-url').value = hostUrl;
+      const webcalUrl = hostUrl.replace(/^https?:/, 'webcal:');
+      document.getElementById('webcal-btn').href = webcalUrl;
+    }
+  </script>
+</body>
+</html>
