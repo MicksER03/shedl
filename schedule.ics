@@ -4,37 +4,11 @@ PRODID:-//Herzen Schedule Parser//ru
 X-WR-CALNAME:Расписание занятий РГПУ
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
-SUMMARY:[ЛАБ] Технологии логопедической диа
- гностики
-DTSTART;TZID=Europe/Moscow:20261124T112000
-DTEND;TZID=Europe/Moscow:20261124T125000
-DTSTAMP:20261124T104722Z
-UID:3e4beeb510affceae89ea6e7798f62813f9119d411316b84aeecc9fb092f5a0e@herze
- n-schedule
-DESCRIPTION:доц. Герасименко Юлия Викторовна\n
- Примечание: 17.11—1.12
-LOCATION:ауд. 316\, корпус 27 (ул. Малая Посадска
- я\, д. 26)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ПРАКТ] Физическая культура и спорт (
- элективная дисциплина)
-DTSTART;TZID=Europe/Moscow:20261124T133000
-DTEND;TZID=Europe/Moscow:20261124T150000
-DTSTAMP:20261124T104722Z
-UID:2233ad93e176ceef988f5779087ae2b8a7b122e3bc1554909a781ae1e71859e0@herze
- n-schedule
-DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
- вич\nПримечание: 17.11—1.12\nMoodle: https://moodle.herzen.
- spb.ru/course/view.php?id=21161
-LOCATION:ауд.119 - спортивный зал
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261125T094000
 DTEND;TZID=Europe/Moscow:20261125T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:740379e180bc2afcc28972b9d731e16d436c2f9febe2cbc7f4a632bd9dba8c2f@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -46,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261125T112000
 DTEND;TZID=Europe/Moscow:20261125T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:0160ddf30a1847cd2436885d84d5520ce11349bfbeb609079365f8197e65b8e4@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -60,7 +34,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261125T133000
 DTEND;TZID=Europe/Moscow:20261125T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:6ece2a8f3786a43655b3cdadd84d33c20f02e4221329d60142e4b5b385e75dd4@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -73,7 +47,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261125T151000
 DTEND;TZID=Europe/Moscow:20261125T164000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:9106af981e09c3ea00171e1fa7d672fea7f0b0cc87011180636355643e10f8a7@herze
  n-schedule
 DESCRIPTION:проф. Шац Игорь Константинович\nПр
@@ -86,7 +60,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261126T094000
 DTEND;TZID=Europe/Moscow:20261126T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:82f8bb3ec1621101b9320f18111f899c2592517d76d97c3d781eab05df29bca5@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -100,7 +74,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261126T112000
 DTEND;TZID=Europe/Moscow:20261126T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:f689236ee594dc021de03a004ce15d3b21137af891b5a0b90a19c229bda25108@herze
  n-schedule
 DESCRIPTION:доц. Прищепова Ирина Владимировна
@@ -113,7 +87,7 @@ SUMMARY:[ЛАБ] Онтогенез речевой деятельност
  и
 DTSTART;TZID=Europe/Moscow:20261126T133000
 DTEND;TZID=Europe/Moscow:20261126T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:5b4a904b5b0d2a89cc9476b5c38d3024960ce516502fbee5752c67dee72aff0a@herze
  n-schedule
 DESCRIPTION:доц. Прищепова Ирина Владимировна
@@ -126,7 +100,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261127T094000
 DTEND;TZID=Europe/Moscow:20261127T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:9370cfa0e08091def62be5eff8a712b33222f49448dcd3c43872602823530845@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -139,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261127T133000
 DTEND;TZID=Europe/Moscow:20261127T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:489cb0a5dce37fa4c117ad1aabbd63b58d3947f6ccbfafa14cdb02dd96462eba@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -153,7 +127,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261201T094000
 DTEND;TZID=Europe/Moscow:20261201T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:b7ce3fe254d11b335b010b5bbbfaddf0ba20aef7392435f04619ed9111609b3f@herze
  n-schedule
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
@@ -166,7 +140,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261201T112000
 DTEND;TZID=Europe/Moscow:20261201T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:2bb17e52f4d29a129f20651f7d3524ba187e8dd68a18f8dda40a480425392220@herze
  n-schedule
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
@@ -179,7 +153,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261201T133000
 DTEND;TZID=Europe/Moscow:20261201T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:5d0c2c32fed6bad71138b3714f71f44e3456dff32b58c0fb4b4045cb2f36c546@herze
  n-schedule
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
@@ -192,7 +166,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261202T094000
 DTEND;TZID=Europe/Moscow:20261202T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:7aefae4dd2d9125f094d7370a1b2dbff81a677c0f2867ce0f6d6a6b3fcbfa1a0@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -204,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261202T112000
 DTEND;TZID=Europe/Moscow:20261202T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:ab7704ad63165379e18a69135535c5a510ab2f0eef81485b8474222e470237c8@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -218,7 +192,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261202T133000
 DTEND;TZID=Europe/Moscow:20261202T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:1bb7f53d7e97a19f0c65beb53f4c838bad7fc22ad46f89166653929412fc50cf@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -231,7 +205,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261202T151000
 DTEND;TZID=Europe/Moscow:20261202T164000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:df1881a1b1be5d89672a8d7a09078b61acce70be48faedd687aae2946be5c759@herze
  n-schedule
 DESCRIPTION:проф. Шац Игорь Константинович\nПр
@@ -244,7 +218,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261203T094000
 DTEND;TZID=Europe/Moscow:20261203T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:37e963d26a53e1d78f75b12a4b303c1a8d7654f94aea87d7a905907bdbc77d5f@herze
  n-schedule
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
@@ -257,7 +231,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261203T112000
 DTEND;TZID=Europe/Moscow:20261203T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:dec6508843dd8f8fca2bb1acd4ffd1fd297945325cb5c5f28248d13acd2e6f13@herze
  n-schedule
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
@@ -270,7 +244,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261203T133000
 DTEND;TZID=Europe/Moscow:20261203T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:f9c84212ddfdbf8447a72e225883c47380c04d415de101a1c43e4165e8d7639c@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -284,7 +258,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261203T151000
 DTEND;TZID=Europe/Moscow:20261203T164000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:8e8a3933dd570e378d7daedd50a8d36698b8060e730e9f47ad2904154332a225@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -297,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261204T133000
 DTEND;TZID=Europe/Moscow:20261204T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:274a4190d5a85bd24550f8667a754defc45f1d0b280b5c7573f22850ff81b44d@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -311,7 +285,7 @@ SUMMARY:[ЛЕКЦ] Факультатив: Профилактика нар
  козависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20261207T094000
 DTEND;TZID=Europe/Moscow:20261207T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:0956d7748809a781d7f6ebd2bcfb6ff2c1e274cf709ee29802de4c65335edadf@herze
  n-schedule
 DESCRIPTION:Видеолекция\nПримечание: 7.12
@@ -322,7 +296,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261207T112000
 DTEND;TZID=Europe/Moscow:20261207T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:a5de45d589e85f9e6538e27dc4ca937b7be972e69189a98fc050cc9ed6f8c6d6@herze
  n-schedule
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
@@ -336,7 +310,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261207T133000
 DTEND;TZID=Europe/Moscow:20261207T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:f6cd020f1e72241aa714ec6bf16451506e3a19db8aad0399054340ec94a537ee@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -349,7 +323,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261207T151000
 DTEND;TZID=Europe/Moscow:20261207T164000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:53bf24f7806dcbc9b4b61fd897417c73bcfb311c1aface5c2662a77d1736c40c@herze
  n-schedule
 DESCRIPTION:доц. Гончарова Валерия Александро
@@ -362,7 +336,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261207T165000
 DTEND;TZID=Europe/Moscow:20261207T182000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:c00d3f391997617792fea76166296ea6dbc0c1e4625e56a872dff695847b0af4@herze
  n-schedule
 DESCRIPTION:доц. Гончарова Валерия Александро
@@ -375,7 +349,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261208T112000
 DTEND;TZID=Europe/Moscow:20261208T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:9b32ab300f5404482121cde75f7fbee19b61325040453371cee8820e3041caa0@herze
  n-schedule
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
@@ -388,7 +362,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261209T094000
 DTEND;TZID=Europe/Moscow:20261209T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:284bd0964a504b6a922b2d0caed8881fb96d2019cb1e1a7b7d4b399adda66fd5@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -400,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261209T112000
 DTEND;TZID=Europe/Moscow:20261209T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:8d4c94546aa65539bc349c5391186e27e14b37607ec7b5fc0ba7118b6472ab58@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -414,7 +388,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261209T133000
 DTEND;TZID=Europe/Moscow:20261209T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:25b173cb8a04522d0f9047729162828bc449ba662f51f1e9b6ce8cf21b2e9e58@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -427,7 +401,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261209T151000
 DTEND;TZID=Europe/Moscow:20261209T164000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:025dbab840efc980ca64c484f997141323021d44beb68686ebe121aba0b56e10@herze
  n-schedule
 DESCRIPTION:проф. Шац Игорь Константинович\nПр
@@ -440,7 +414,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20261210T094000
 DTEND;TZID=Europe/Moscow:20261210T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210405Z
 UID:163d72b350a45a70fafd193d7e1187a7c89a126552b91c48c95d706c5ac4dec1@herze
  n-schedule
 DESCRIPTION:доц. Богачек Ирина Сергеевна\nПрим
@@ -453,7 +427,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20261210T112000
 DTEND;TZID=Europe/Moscow:20261210T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:fcb2b926d242e60dd17c1377744e148f3f4f5f77c7eaec4f76049961598ac198@herze
  n-schedule
 DESCRIPTION:доц. Богачек Ирина Сергеевна\nПрим
@@ -466,7 +440,7 @@ SUMMARY:[ПРАКТ] Психолого-педагогическая ди
  агностика
 DTSTART;TZID=Europe/Moscow:20261210T133000
 DTEND;TZID=Europe/Moscow:20261210T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:b20cb1d97c503c3342d031c00d0f13823c58b9cecffa5a682dfe2d287f762128@herze
  n-schedule
 DESCRIPTION:доц. Богачек Ирина Сергеевна\nПрим
@@ -479,7 +453,7 @@ SUMMARY:[ЗАЧЁТ] Факультатив: Профилактика на
  ркозависимости в молодежной среде
 DTSTART;TZID=Europe/Moscow:20261210T151000
 DTEND;TZID=Europe/Moscow:20261210T171000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:5a02b5c4f86603faeeaf6f1bebb897a39c139c5d1d3e405344e8a2cd0cb484b0@herze
  n-schedule
 DESCRIPTION:зав. каф. Буйнов Леонид Геннадьеви
@@ -492,7 +466,7 @@ SUMMARY:[ЛЕКЦ] Система оказания логопедичес
  кой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261211T112000
 DTEND;TZID=Europe/Moscow:20261211T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:8741365dd193e8786f9305951f08a413ea0c16705a42c2489527161c0ab7378d@herze
  n-schedule
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
@@ -505,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:[ЛЕКЦ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261211T133000
 DTEND;TZID=Europe/Moscow:20261211T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:c19cd6585ee1f991ad8df0e1894459efb03dddd250cf855109057a3d3eb74af2@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -519,7 +493,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261212T094000
 DTEND;TZID=Europe/Moscow:20261212T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:856dea8c21846ccf7be27cf013ca969c37d716a3a41985e0c087d705111a88d8@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -533,7 +507,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261212T112000
 DTEND;TZID=Europe/Moscow:20261212T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:e8a4870635f64804842e50fc356cf9728a3d15c19d6ca51a54c764b7afa944ad@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -547,7 +521,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261214T112000
 DTEND;TZID=Europe/Moscow:20261214T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:e9e1b84e3ab5610b88970806806be48c49584ab2095f383be8d7423b6b2c2808@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -560,7 +534,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261214T133000
 DTEND;TZID=Europe/Moscow:20261214T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:bbc3e7c5abde7a7fa84df301c14f9405b1a32acfc42b9166ec9eb7d9c049c2fb@herze
  n-schedule
 DESCRIPTION:доц. Гончарова Валерия Александро
@@ -573,7 +547,7 @@ SUMMARY:[ЛАБ] Учебная практика (предметно-со
  держательная)
 DTSTART;TZID=Europe/Moscow:20261214T151000
 DTEND;TZID=Europe/Moscow:20261214T164000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:34037330c477c2b78a561429bb435f8861aff7e6cf59dd0ea80253dd792fab96@herze
  n-schedule
 DESCRIPTION:доц. Гончарова Валерия Александро
@@ -586,7 +560,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261215T112000
 DTEND;TZID=Europe/Moscow:20261215T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:8d49f0396e5b5b00ad9a4a221fccd7c628ec29b8f417a4a36a51fef502fe8bcc@herze
  n-schedule
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
@@ -598,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:[ПРАКТ] Невропатология
 DTSTART;TZID=Europe/Moscow:20261216T112000
 DTEND;TZID=Europe/Moscow:20261216T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:77905c476932e5192003d41f2d27ab36f08c32a9f562bcd4c94a2ab4bc7203f2@herze
  n-schedule
 DESCRIPTION:доц. Вассерман Евгений Людвигович
@@ -612,7 +586,7 @@ SUMMARY:[ПРАКТ] Система оказания логопедиче
  ской помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261216T133000
 DTEND;TZID=Europe/Moscow:20261216T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:af4eb253c0a8722da50628a71c8458c4d922bc852443be735f7da6fe81fdbd55@herze
  n-schedule
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
@@ -626,7 +600,7 @@ SUMMARY:[ПРАКТ] Психопатология с клиникой ин
  теллектуальных нарушений
 DTSTART;TZID=Europe/Moscow:20261216T151000
 DTEND;TZID=Europe/Moscow:20261216T164000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:f923fd492e6bc211d2a655850b0c25e6370cca94a0ed3d27f222d2a9836985b3@herze
  n-schedule
 DESCRIPTION:проф. Шац Игорь Константинович\nПр
@@ -639,7 +613,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261218T133000
 DTEND;TZID=Europe/Moscow:20261218T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:dbc58465918b473ce294e366caa236d7b5ff55b73cda0f5c9d83f6c2b6388b32@herze
  n-schedule
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
@@ -652,7 +626,7 @@ SUMMARY:[ЛАБ] Технологии логопедической диа
  гностики
 DTSTART;TZID=Europe/Moscow:20261218T151000
 DTEND;TZID=Europe/Moscow:20261218T164000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:cbd6e99dfa565d7057f251ffa823d7bf9f07c970282a01db8bc52129f5e858f0@herze
  n-schedule
 DESCRIPTION:доц. Герасименко Юлия Викторовна\n
@@ -665,7 +639,7 @@ SUMMARY:[ПРАКТ] Физическая культура и спорт (
  элективная дисциплина)
 DTSTART;TZID=Europe/Moscow:20261222T112000
 DTEND;TZID=Europe/Moscow:20261222T125000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:aa8316d1d72cb4f0b326174ba3d936800d08ee0e3ca559bf4a9a83119b97277e@herze
  n-schedule
 DESCRIPTION:ст. преп. Плешивцев Михаил Викторо
@@ -678,7 +652,7 @@ SUMMARY:[ЛЕКЦ] Отечественная и зарубежная ли
  тература
 DTSTART;TZID=Europe/Moscow:20261223T094000
 DTEND;TZID=Europe/Moscow:20261223T111000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:42490de70dd16f28515265c41747d6c98113b6531e62242c693e8e04ba228aba@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -691,7 +665,7 @@ SUMMARY:[ПРАКТ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261223T133000
 DTEND;TZID=Europe/Moscow:20261223T150000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:a17769af4d017fd7ba084a2d9ac94e4f190cd6e70790b8fa02347826f321d4e5@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич\nПрим
@@ -704,7 +678,7 @@ SUMMARY:[ЗАЧЁТ] Технологии логопедической д
  иагностики
 DTSTART;TZID=Europe/Moscow:20261224T094000
 DTEND;TZID=Europe/Moscow:20261224T102500
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:658a9a6041840ded90de9db243a566b77fa93c99ac8c7eb9019f44ceaab9af4b@herze
  n-schedule
 DESCRIPTION:доц. Герасименко Юлия Викторовна
@@ -716,7 +690,7 @@ SUMMARY:[ЗЧ/ОЦ] Отечественная и зарубежная л
  итература
 DTSTART;TZID=Europe/Moscow:20261224T133000
 DTEND;TZID=Europe/Moscow:20261224T163500
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:72d085c8bfb9ebbb0caaf1b6929cb7aebb3588be230d3d4772dee182fbe178ee@herze
  n-schedule
 DESCRIPTION:проф. Докучаев Илья Игоревич
@@ -728,7 +702,7 @@ SUMMARY:[КОНСУЛЬТАЦИЯ] Система оказания лог
  опедической помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20261229T100000
 DTEND;TZID=Europe/Moscow:20261229T110000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:185c6f89208900c3d5301f3719cb012fa04963e5b79a9437c4255005460779e8@herze
  n-schedule
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
@@ -740,7 +714,7 @@ SUMMARY:[КОНСУЛЬТАЦИЯ] Психолого-педагогиче
  ская диагностика
 DTSTART;TZID=Europe/Moscow:20270112T180000
 DTEND;TZID=Europe/Moscow:20270112T190000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:bdfecbff9fb4e65602efcfcd621bf8567ec1636d2488cfc16efc0342a99cb365@herze
  n-schedule
 DESCRIPTION:доц. Богачек Ирина Сергеевна
@@ -751,7 +725,7 @@ SUMMARY:[ЭКЗАМЕН] Психолого-педагогическая
  диагностика
 DTSTART;TZID=Europe/Moscow:20270114T094000
 DTEND;TZID=Europe/Moscow:20270114T123000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:98bf348d7320acf066fc5f1849ff0e266f0fa7881413ba2ec01aab8f21404e42@herze
  n-schedule
 DESCRIPTION:доц. Богачек Ирина Сергеевна
@@ -763,7 +737,7 @@ SUMMARY:[ЭКЗАМЕН] Система оказания логопеди
  ческой помощи детям с ОВЗ
 DTSTART;TZID=Europe/Moscow:20270118T100000
 DTEND;TZID=Europe/Moscow:20270118T143000
-DTSTAMP:20261124T104722Z
+DTSTAMP:20261124T210406Z
 UID:ccf790641f40d8210358ccc47a9923dd6229291935c93788fc86f067e89eee68@herze
  n-schedule
 DESCRIPTION:доц. Ковалева Мария Владимировна\n
